@@ -34,6 +34,8 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <br>
 <p align="center">
-        <img src="" alt="Github Stats" />
+        <img src="https://github.com/ulugbekivich/ulugbekivich/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
 >>>>>>> 26eb11f60f3c3b4907b045d26c06a62e9bf082f9
+
+
