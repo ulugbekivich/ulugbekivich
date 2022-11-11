@@ -4,6 +4,6 @@
 
 <p align="center" >
   <a href="https://github.com/ulugbekivich/github-readme-stats"> 
-      <img  src="dfdf"/>
+      <img  src="[dfdf](https://github-readme-stats.vercel.app/api?username=ulugbekivich&&show_icons=true&theme=dark)"/>
   </a>
 </p>
