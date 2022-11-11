@@ -11,3 +11,10 @@
       <img  src="https://github-readme-stats.vercel.app/api?username=ulugbekivich&&show_icons=true&theme=dark"/>
   </a>
 </p>
+
+<br>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<br>
+<p align="center">
+        <img src="" alt="Github Stats" />
+</p>
