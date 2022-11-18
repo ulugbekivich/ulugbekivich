@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ulugbekivich/ulugbekivich/assets/blob/main/github.gif" alt="Hi, I'm Shaydullayev 👋">
+  <img src="https://github.com/ulugbekivich/ulugbekivich/blob/main/assets/github.gif" alt="Hi, I'm Shaydullayev 👋">
 </p>
 
 <h3 align="center">
@@ -27,5 +27,5 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <br>
 <p align="center">
-        <img src="https://github.com/ulugbekivich/ulugbekivichassets//blob/main/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/ulugbekivich/ulugbekivich/blob/main/assets/Bottom.svg" alt="Github Stats" />
 </p>
