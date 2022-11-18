@@ -13,7 +13,7 @@
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-## 🙋‍♂️ Connect with me
+<h3 align="center">🙋‍♂️ Connect with me</h3>
 
 <p align="center">
     <a href="https://github.com/ulugbekivich">
