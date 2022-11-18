@@ -87,8 +87,8 @@
         <img alt="PostgreSQL"
              src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
     <a href="#">
-        <img alt="SQL Server"
-             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+        <img alt="SQLite"
+             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="MySql"
              src="https://img.shields.io/badge/mysql-DDD7D9?style=for-the-badge&logo=mysql&logoColor=black"/></a>
