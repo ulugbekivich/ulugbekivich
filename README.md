@@ -36,7 +36,8 @@
     <img alt="Shaydullayev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ulugbekivich&langs_count=8&layout=compact&theme=dark&border=61dafb&hide_border=true" /></a>
 </p>
 
-##👨‍💻 Programming Languages
+
+## 👨‍💻 Programming Languages
 
 <p>
     <a href="#">
