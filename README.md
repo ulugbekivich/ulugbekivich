@@ -52,6 +52,9 @@
         <img alt="Python"
              src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="#">
+        <img alt="PHP"
+             src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white"/></a>         
+    <a href="#">
         <img alt="SQL"
              src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
 </p>
