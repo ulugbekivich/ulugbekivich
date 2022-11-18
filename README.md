@@ -13,7 +13,7 @@
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center">🙋‍♂️ Connect with me</h3>
+## 🙋‍♂️ Connect with me
 
 <p align="center">
     <a href="https://github.com/ulugbekivich">
@@ -24,7 +24,7 @@
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## 📊 Github Stats ⚡
 
 <br>
 <p align="center" >
