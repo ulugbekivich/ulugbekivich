@@ -91,7 +91,7 @@
              src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="MySql"
-             src="https://img.shields.io/badge/mysql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
+             src="https://img.shields.io/badge/mysql-DDD7D9?style=for-the-badge&logo=mysql&logoColor=black"/></a>
 </p>
 
 <br>
