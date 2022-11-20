@@ -13,21 +13,10 @@
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-## 🙋‍♂️ Connect with me
-
-<p align="center">
-    <a href="https://github.com/ulugbekivich">
-        <img alt="Github"
-             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/a-zamjon-shaydullayev-045510257/">
-        <img alt="Linkedin"
-             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
 ## 📊 Github Stats ⚡
 
 <br>
-<p align="center" >
+<p>
   <a href="https://github.com/ulugbekivich/github-readme-stats"> 
       <img  src="https://github-readme-stats.vercel.app/api?username=ulugbekivich&&show_icons=true&theme=dark&border=61dafb&hide_border=true"/>
   </a>
@@ -97,9 +86,13 @@
              src="https://img.shields.io/badge/mysql-DDD7D9?style=for-the-badge&logo=mysql&logoColor=black"/></a>
 </p>
 
-<br>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<br>
+## 🙋‍♂️ Connect with me
+
 <p align="center">
-        <img src="https://github.com/ulugbekivich/ulugbekivich/blob/main/assets/Bottom.svg" alt="Github Stats" />
+    <a href="https://github.com/ulugbekivich">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/a-zamjon-shaydullayev-045510257/">
+        <img alt="Linkedin"
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
