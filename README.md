@@ -16,7 +16,7 @@
 ## 📊 Github Stats ⚡
 
 <br>
-<p align="center">
+<p>
   <a href="https://github.com/ulugbekivich/github-readme-stats"> 
       <img  src="https://github-readme-stats.vercel.app/api?username=ulugbekivich&&show_icons=true&theme=dark&border=61dafb&hide_border=true"/>
   </a>
@@ -88,7 +88,7 @@
 
 ## 🙋‍♂️ Connect with me
 
-<p align="center">
+<p>
     <a href="https://github.com/ulugbekivich">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
