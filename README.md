@@ -13,6 +13,22 @@
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+## 👨🏻‍💻 About Me:
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="280" />
+
+<br/>
+
+- 🌍 I'm dotNet developer from Uzbekistan 🇺🇿
+- 🔭 I’m currently working on My project
+- 🌱 I’m currently learning frontend 
+- 👯 I’m looking to collaborate on dotNet project
+- 💬 Ask me about dotNet
+- ⚡️ Fun fact: i'm 17 years old but everyone thinks i'm older than 20
+
+ 
+<br/>
+
 ## 📊 Github Stats ⚡
 
 <br>
