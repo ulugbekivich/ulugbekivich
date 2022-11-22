@@ -15,10 +15,8 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="230" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
 
-<br/>
-<br/>
 <br/>
 
 - 🌍 I'm dotNet developer from Uzbekistan 🇺🇿
@@ -27,9 +25,6 @@
 - 👯 I’m looking to collaborate on dotNet project
 - 💬 Ask me about dotNet
 - ⚡️ Fun fact: I'm 17 years old but everyone thinks i'm older than 20
-
- 
-<br/>
 
 <br/>
 
