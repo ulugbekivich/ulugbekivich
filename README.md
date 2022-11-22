@@ -18,8 +18,6 @@
 <br>
 <p>
     <img  src="https://github-readme-stats.vercel.app/api?username=ulugbekivich&show_icons=true&theme=dark&border=61dafb&hide_border=true"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekivich&langs_count=8&theme=dark&border=61dafb&hide_border=true"/>
 </p>
 
 
