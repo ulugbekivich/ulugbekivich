@@ -43,23 +43,7 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
-    <a href="#">
-        <img alt="C#"
-             src="https://img.shields.io/badge/CSHARP-%23430098.svg?style=flat&logo=csharp&logoColor=white"></a>
-    <a href="#">
-        <img alt="C"
-             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#">
-        <img alt="PHP"
-             src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white"/></a>         
-    <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
-</p>
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white)
 
 
 ### 🧰 Frameworks and libraries
@@ -67,22 +51,22 @@
 <p>
     <a href="#">
         <img alt="ASP.NET"
-             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
+             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=flat&logo=ASP.NET&logoColor=white"></a>
     <a href="#">
         <img alt=".NET6"
-             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a>
+             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=flat&logo=.NET6&logoColor=white"></a>
     <a href="#">
         <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
+             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=flat&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
         <img alt="Entity%20Fraemwork%20Core"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=flat&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
         <img alt="OpenCV"
-             src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+             src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/></a>
     <a href="#">
         <img alt="MVC"
-             src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+             src="https://img.shields.io/badge/MVC-43B02A?style=flat&logo=MVC&logoColor=white"/></a>
 </p>
 
 ### 🗄️ Databases
@@ -90,13 +74,13 @@
 <p>
     <a href="#">
         <img alt="PostgreSQL"
-             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+             src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
     <a href="#">
         <img alt="SQLite"
-             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+             src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="MySql"
-             src="https://img.shields.io/badge/mysql-DDD7D9?style=for-the-badge&logo=mysql&logoColor=black"/></a>
+             src="https://img.shields.io/badge/mysql-DDD7D9?style=flat&logo=mysql&logoColor=black"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -104,8 +88,8 @@
 <p>
     <a href="https://github.com/ulugbekivich">
         <img alt="Github"
-             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+             src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/a-zamjon-shaydullayev-045510257/">
         <img alt="Linkedin"
-             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
