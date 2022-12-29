@@ -31,19 +31,16 @@
 
 ## 📊 Github Stats ⚡
 
-<br>
-<p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=ulugbekivich&show_icons=true&theme=dark&border=61dafb&hide_border=true"/>
-    <br>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ulugbekivich&langs_count=8&theme=dark&border=61dafb&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ulugbekivich&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ulugbekivich&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekivich&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming Languages
 
-![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 
 ### 🧰 Frameworks and libraries
