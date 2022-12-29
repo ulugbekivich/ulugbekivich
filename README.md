@@ -80,7 +80,7 @@
              src="https://img.shields.io/badge/mysql-DDD7D9?style=flat&logo=mysql&logoColor=black"/></a>
     <a href="#">
         <img alt="SQLServer"
-             src="https://img.shields.io/badge/SQL%20Server-DDD7D9?style=flat&logo=amazon-dynamodb&logoColor=black"/></a>
+             src="https://img.shields.io/badge/SQL%20Server-c0c0c0?style=flat&logo=amazon-dynamodb&logoColor=black"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
