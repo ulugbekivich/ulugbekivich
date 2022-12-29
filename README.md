@@ -42,24 +42,7 @@
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming Languages
-
-<p>
-    <a href="#">
-        <img alt="C#"
-             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
-    <a href="#">
-        <img alt="C"
-             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#">
-        <img alt="PHP"
-             src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white"/></a>         
-    <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
-</p>
+![CSHARP](https://img.shields.io/badge/CSHARP-%23430098.svg?style=flat&logo=csharp&logoColor=white)
 
 
 ### 🧰 Frameworks and libraries
