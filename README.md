@@ -93,3 +93,9 @@
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
+
+
+## GitHub Profile Trophy 🏆
+
+<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=Ulugbekivich&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="Ulugbekivich" />
+ </h1>
