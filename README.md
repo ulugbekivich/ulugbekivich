@@ -89,7 +89,7 @@
     <a href="https://github.com/ulugbekivich">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/a-zamjon-shaydullayev-045510257/">
+    <a href="https://www.linkedin.com/ulugbekivich/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
