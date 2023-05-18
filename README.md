@@ -25,7 +25,6 @@
 - 🌱 I’m currently learning frontend 
 - 👯 I’m looking to collaborate on dotNet project
 - 💬 Ask me about dotNet
-- ⚡️ Fun fact: I'm 17 years old but everyone thinks i'm older than 20
 
 <br/>
 
